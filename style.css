@@ -114,19 +114,6 @@ media (max-width: 600px) {
     font-size: 2.2rem;
   }
 
-  .section {
-    padding: 20px;
-  }
-  /* ===== SCROLL ANIMATION ===== */
-.section {
-  opacity: 0;
-  transform: translateY(40px);
-}
-
-.section.show {
-  opacity: 1;
-  transform: translateY(0);
-  transition: all 0.8s ease;
 }
   .skills li:hover {
   animation: pulse 0.6s ease-in-out;
