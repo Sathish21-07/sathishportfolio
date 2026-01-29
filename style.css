@@ -131,6 +131,16 @@ a:hover {
   transform: translateY(0);
   transition: all 0.8s ease;
 }
+  .skills li:hover {
+  animation: pulse 0.6s ease-in-out;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
 
 }
 
