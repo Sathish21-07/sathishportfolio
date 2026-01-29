@@ -1,2 +1,2 @@
-# My-web-project
+# Portfolio 
 My first web project: a portfolio website made using HTML, CSS, and JavaScript.
